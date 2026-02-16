@@ -1,0 +1,8 @@
+git clone url - used to clone the GitHub repo to our local system. (used only once)
+git pull - used to pull or get any changes made in the GitHub repo after cloning of the repo
+git status - gives the info untracked files present in local repo
+
+This commit is made from local repo and pushed to GitHub repo using git add, git commit, git push commands.
+git remote -v gives us the info of current repo we are working on
+origin is an alias for our repo in GitHub
+master / main are branches we are pushing the changes. (will learn detailed about it later)
